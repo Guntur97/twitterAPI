@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>twitters</label>
+		<id>17</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>twitters.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>gunturapi\gunturapi.jcp</path>
+		</project>
+	</projects>
+</workspace>
